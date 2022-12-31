@@ -1,6 +1,6 @@
 # Hello World - Social Media Web App
 
-live: [https://helloworldsocial.herokuapp.com/](https://helloworld-kioz.onrender.com/)
+live: [https://helloworld-kioz.onrender.com/](https://helloworld-kioz.onrender.com/)
 
 ## screenshots
 
